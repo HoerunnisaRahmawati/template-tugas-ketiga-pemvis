@@ -17,10 +17,10 @@ Tampilan tersebut dapat dilihat di [link berikut (https://hoerunnisa-portofolio-
 ## Optimalisasi website
 
 Nilai lighthouse sebelum optimalisasi
-![preview of Hoerunnisa Rahmawati's portfolio website](./docs/images/Screenshot (665).png)
+![Screenshot (665)](https://github.com/HoerunnisaRahmawati/template-tugas-ketiga-pemvis/assets/132890652/dfe15ade-c960-48ed-a096-e35bf6dabcba)
 
 Nilai lighthouse setelah optimalisasi
-![preview of Hoerunnisa Rahmawati's portfolio website](./docs/images/Screenshot (666).png)
+![Screenshot (666)](https://github.com/HoerunnisaRahmawati/template-tugas-ketiga-pemvis/assets/132890652/433a940c-1679-4b63-9ea3-1c634153f332)
 
 Langkah-langkah yang dilakukan untuk meningkatkan nilai kualitas website dari lighthouse:
 1. mengubah format gambar jpg ke webp agar proses download lebih cepat dan konsumsi datanya lebih sedikit
