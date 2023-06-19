@@ -10,7 +10,7 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ## Tampilan website
 
-![preview of Hoerunnisa Rahmawati's portfolio website](./docs/images/Screenshot (664).png)
+![Screenshot (664)](https://github.com/HoerunnisaRahmawati/template-tugas-ketiga-pemvis/assets/132890652/f8494837-b287-44f2-8421-a8edab2a9bf4)
 
 Tampilan tersebut dapat dilihat di [link berikut (https://hoerunnisa-portofolio-site.webflow.io/)](https://hoerunnisa-portofolio-site.webflow.io/)
 
